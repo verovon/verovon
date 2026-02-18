@@ -1,8 +1,8 @@
 # Hi, I'm Verónica! 👋
+UX | Data visualisation | EU public administrations
+
 
 An UX desiger learning to code
-
-UX | Data visualisation | EU public administrations
 
 **Tech stack**
 
