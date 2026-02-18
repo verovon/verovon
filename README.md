@@ -1,9 +1,10 @@
 # Hi, I'm Verónica! 👋
 UX | Data visualisation | EU public administrations
-
-
+ <br>
+ <br>
 An UX desiger learning to code
-
+ <br>
+  <br>
 **Tech stack**
 
 Frontend: HTLM, CSS, JS <br>
