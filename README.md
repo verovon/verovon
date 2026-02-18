@@ -6,9 +6,9 @@ An UX desiger learning to code
  <br>
   <br>
 **Tech stack** <br>
-Frontend: HTLM, CSS, JS <br>
-Backend: Java </br>
-Data: Python, Plotly
+- Frontend: HTLM, CSS, JS <br>
+- Backend: Java </br>
+- Data: Python, Plotly
 
 <!--
 **verovon/verovon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
