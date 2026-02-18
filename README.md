@@ -1,19 +1,15 @@
-## Hi, I'm Verónica! 👋
+# Hi, I'm Verónica! 👋
+
+An UX desiger learning to code
 
 UX | Data visualisation | EU public administrations
 
-## Tech stack
+**Tech stack
 
-# Frontend
-HTLM, CSS, JS
+Frontend: HTLM, CSS, JS
+Backend: Java
+Data: Python, Plotly
 
-# Backend
-Java
-
-# Data
-Python, Plotly
-
-An UX designer learning to code
 <!--
 **verovon/verovon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
