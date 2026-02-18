@@ -6,8 +6,8 @@ An UX desiger learning to code
 
 **Tech stack**
 
-Frontend: HTLM, CSS, JS
-Backend: Java
+Frontend: HTLM, CSS, JS <br>
+Backend: Java </br>
 Data: Python, Plotly
 
 <!--
