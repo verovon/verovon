@@ -4,7 +4,7 @@ An UX desiger learning to code
 
 UX | Data visualisation | EU public administrations
 
-**Tech stack
+**Tech stack**
 
 Frontend: HTLM, CSS, JS
 Backend: Java
