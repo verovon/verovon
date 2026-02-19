@@ -5,7 +5,7 @@ _UX | Data visualisation | EU public administrations_
 An UX desiger learning to code
  <br>
   <br>
-**Tech stack** <br>
+**Tech stack**
 - Frontend: HTLM, CSS, JS <br>
 - Backend: Java </br>
 - Data: Python, Plotly
